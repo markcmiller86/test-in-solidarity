@@ -1,12 +1,7 @@
 rules:
-  master: failure
-  slave: failure
-  foo:
-    regex:
-      - /foo/gi
-      - /foobar/gi
+  master:
     level: failure
-ignore:
- - ".github/in-solidarity.yml"  # default
- - "**/*.yml"
-ignoreDefaults: true
+  slave:
+    level: failure
+  whitelist:
+    level: failure
