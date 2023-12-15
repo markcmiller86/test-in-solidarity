@@ -1,3 +1,7 @@
+gorfo:
+  - foo
+  - bar
+  - baz
 rules:
   master:
     level: failure
