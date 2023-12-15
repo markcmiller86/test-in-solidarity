@@ -1,13 +1,9 @@
 rules:
   master:
-    level: off  # default rules are set to warning
+    level: failure  # default rules are set to warning
   slave:
-    level: failure
-  foo:  # custom rule requires regex and level
-    regex:
-      - /foo/gi
-      - /foobar/gi
     level: failure
 ignore:
   - ".github/in-solidarity.yml"  # default
   - "**/*.yml"
+ignoreDefaults: true
