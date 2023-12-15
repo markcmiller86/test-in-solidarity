@@ -1,17 +1,12 @@
 # test-in-solidarity
 
-Adding a change for a PR.
 
-I am testing this app to see how it works.
+Trying another test with words like master.
 
-Here is a sentence with the word slave in it.
+Here is another test with word slave.
 
-Here is a sentence with the word grandfathered in it.
+Here is the word slave in the middle of a sentence.
 
-Here is a sentence with the word blacklist in it.
+Lets try grandfathered too.
 
-How will the app handle these changes?
-
-Adding badges advertised by the app...
-
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat.png)](https://github.com/apps/in-solidarity)
+And, finally, blacklist.
